@@ -1,0 +1,1604 @@
+[
+    {
+        "name": "ערערה בנגב",
+        "population": 20705,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שער שומרון",
+        "population": 8839,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קריית ארבע",
+        "population": 7572,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קריית יערים",
+        "population": 7371,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ג'ולס",
+        "population": 6701,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "טלמון",
+        "population": 5915,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גבע בנימין",
+        "population": 5827,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אל סייד",
+        "population": 5775,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שילה",
+        "population": 5737,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית אריה-עופרים",
+        "population": 5516,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו תלול",
+        "population": 5160,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "סעוה",
+        "population": 5046,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר אדומים",
+        "population": 5019,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עלי",
+        "population": 4746,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מוקייבלה",
+        "population": 4537,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כאוכב אבו אל-היג'א",
+        "population": 4039,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין נקובא",
+        "population": 3696,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עוזייר",
+        "population": 3455,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ברכה",
+        "population": 3394,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קצר א-סר",
+        "population": 3363,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נוקדים",
+        "population": 3327,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גני מודיעין",
+        "population": 3239,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עפרה",
+        "population": 3191,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שייח' דנון",
+        "population": 2942,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מצפה יריחו",
+        "population": 2895,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ביר הדאג'",
+        "population": 2839,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבטין",
+        "population": 2806,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר מצר",
+        "population": 2759,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כוכב השחר",
+        "population": 2754,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קציר",
+        "population": 2713,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "צופים",
+        "population": 2568,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רומת הייב",
+        "population": 2565,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו קורינאת (יישוב)",
+        "population": 2458,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין קנייא",
+        "population": 2438,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה דניאל",
+        "population": 2433,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נאעורה",
+        "population": 2427,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "יצהר",
+        "population": 2304,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית יצחק-שער חפר",
+        "population": 2283,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ניל\"י",
+        "population": 2203,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ברקן",
+        "population": 2169,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אלון מורה",
+        "population": 2161,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "טייבה (בעמק)",
+        "population": 2156,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מעלה מכמש",
+        "population": 2131,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נורדייה",
+        "population": 2072,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שער אפרים",
+        "population": 2056,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חספין",
+        "population": 1965,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מכחול",
+        "population": 1904,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "צנדלה",
+        "population": 1795,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "טמרה (יזרעאל)",
+        "population": 1705,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מעלה אפרים",
+        "population": 1695,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "איתמר",
+        "population": 1670,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קדרון",
+        "population": 1626,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר תפוח",
+        "population": 1606,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מדרשת בן גוריון",
+        "population": 1602,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "פורייה - נווה עובד",
+        "population": 1591,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "סוסיה",
+        "population": 1567,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "יגור",
+        "population": 1550,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קדר",
+        "population": 1535,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עלמון",
+        "population": 1513,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מנשית זבדה",
+        "population": 1502,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית השיטה",
+        "population": 1464,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "יקנעם (מושבה)",
+        "population": 1461,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה צוף",
+        "population": 1439,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "סלעית",
+        "population": 1437,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חמ\"ד",
+        "population": 1427,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין ראפה",
+        "population": 1407,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "פורייה עילית",
+        "population": 1398,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר ראש הנקרה",
+        "population": 1372,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מרחביה (קיבוץ)",
+        "population": 1370,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אספר",
+        "population": 1362,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר הרא\"ה",
+        "population": 1350,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה ימין",
+        "population": 1342,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "טל-אל",
+        "population": 1328,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חירות",
+        "population": 1313,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עצמון שגב",
+        "population": 1267,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אילון",
+        "population": 1257,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גבעת חיים (מאוחד)",
+        "population": 1249,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אום אל-קוטוף",
+        "population": 1237,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר יהושע",
+        "population": 1230,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ינון",
+        "population": 1229,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גבעת חיים (איחוד)",
+        "population": 1227,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רינתיה",
+        "population": 1192,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רחלים",
+        "population": 1189,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ריחאנייה",
+        "population": 1183,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ענב",
+        "population": 1172,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר ורבורג",
+        "population": 1170,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גמזו",
+        "population": 1155,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מתתיהו",
+        "population": 1144,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נבטים",
+        "population": 1137,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רמת יוחנן",
+        "population": 1114,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "סתרייה",
+        "population": 1097,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "טנא",
+        "population": 1094,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מצפה אבי\"ב",
+        "population": 1084,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נצר סרני",
+        "population": 1083,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית יהושע",
+        "population": 1072,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "צפרייה",
+        "population": 1039,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "תרבין א-צאנע (יישוב)*",
+        "population": 1037,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר חסידים א'",
+        "population": 1025,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה אילן",
+        "population": 1019,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חצרים",
+        "population": 988,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "לוחמי הגיטאות",
+        "population": 978,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בירייה",
+        "population": 968,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מעלה לבונה",
+        "population": 967,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אשדות יעקב (איחוד)",
+        "population": 962,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גבעת כ\"ח",
+        "population": 958,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה מיכאל",
+        "population": 957,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חצור-אשדוד",
+        "population": 944,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גת (קיבוץ)",
+        "population": 941,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שריגים (לי-און)",
+        "population": 937,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין אל-אסד",
+        "population": 929,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אליקים",
+        "population": 920,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חד-נס",
+        "population": 918,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית חירות",
+        "population": 913,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רם-און",
+        "population": 910,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אשדות יעקב (מאוחד)",
+        "population": 903,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מעלה גלבוע",
+        "population": 899,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר מימון",
+        "population": 889,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בטחה",
+        "population": 885,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית שקמה",
+        "population": 880,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קריית נטפים",
+        "population": 880,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "דלייה",
+        "population": 877,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גן השומרון",
+        "population": 871,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שומרייה",
+        "population": 865,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חגי",
+        "population": 863,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בן שמן (מושב)",
+        "population": 850,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ערב אל נעים",
+        "population": 850,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ניר דוד (תל עמל)",
+        "population": 845,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין חרוד (מאוחד)",
+        "population": 839,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר הרי\"ף",
+        "population": 838,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "יובל",
+        "population": 829,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חפצי-בה",
+        "population": 828,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר בן נון",
+        "population": 808,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "זמרת",
+        "population": 802,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כנרת (קבוצה)",
+        "population": 800,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מצדות יהודה",
+        "population": 796,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "הודייה",
+        "population": 788,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ראס עלי",
+        "population": 783,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ח'ואלד",
+        "population": 771,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חגלה",
+        "population": 766,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "דגניה ב'",
+        "population": 764,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר סאלד",
+        "population": 754,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מרחביה (מושב)",
+        "population": 750,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מעון",
+        "population": 749,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כרמייה",
+        "population": 742,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין הנצי\"ב",
+        "population": 726,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נחליאל",
+        "population": 724,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "לוטם",
+        "population": 723,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נחשולים",
+        "population": 719,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עטרת",
+        "population": 716,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עידן",
+        "population": 716,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שמרת",
+        "population": 715,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רימונים",
+        "population": 707,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מגדלים",
+        "population": 700,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גיניגר",
+        "population": 697,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "פקיעין חדשה",
+        "population": 684,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מבוא דותן",
+        "population": 683,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כנרת (מושבה)",
+        "population": 681,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ניר ח\"ן",
+        "population": 652,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שבי דרום",
+        "population": 644,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "דגניה א'",
+        "population": 634,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גבע",
+        "population": 633,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כרמל",
+        "population": 632,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "פני חבר",
+        "population": 622,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גליל ים",
+        "population": 621,
+        "place": "תל אביב",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אשרת",
+        "population": 610,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אלי-עד",
+        "population": 602,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "צובה",
+        "population": 599,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "דמיידה",
+        "population": 592,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גלעד (אבן יצחק)",
+        "population": 590,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין חרוד (איחוד)",
+        "population": 586,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חלוץ",
+        "population": 583,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אושה",
+        "population": 576,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "דריג'את",
+        "population": 571,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גיתית",
+        "population": 567,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית הערבה",
+        "population": 565,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כרם ביבנה (ישיבה)",
+        "population": 565,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אל -רום",
+        "population": 552,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מבואות יריחו",
+        "population": 538,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אילנייה",
+        "population": 528,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר חרוב",
+        "population": 528,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "לבנים",
+        "population": 527,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כסלון",
+        "population": 524,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "הילה",
+        "population": 516,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מלכייה",
+        "population": 499,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "דוב\"ב",
+        "population": 489,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית גוברין",
+        "population": 483,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גנות",
+        "population": 474,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שני",
+        "population": 468,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ניצן ב'",
+        "population": 452,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ראס אל-עין",
+        "population": 452,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר המכבי",
+        "population": 441,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שדי אברהם",
+        "population": 437,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אילות",
+        "population": 425,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "שיבולים",
+        "population": 420,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ורד יריחו",
+        "population": 416,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קלע",
+        "population": 410,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גיבתון",
+        "population": 399,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "משכיות",
+        "population": 389,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קריית ענבים",
+        "population": 388,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מלאה",
+        "population": 387,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חמדת",
+        "population": 386,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עמיחי",
+        "population": 368,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כחלה",
+        "population": 344,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "פורייה - כפר עבודה",
+        "population": 338,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גורנות הגליל",
+        "population": 336,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קריית שלמה",
+        "population": 334,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מחנה יתיר",
+        "population": 332,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מקווה ישראל",
+        "population": 330,
+        "place": "תל אביב",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה שלום",
+        "population": 313,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נעמ\"ה",
+        "population": 311,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רותם",
+        "population": 311,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אלמוג",
+        "population": 306,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בן שמן (כפר נוער)",
+        "population": 301,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מדרשת רופין",
+        "population": 293,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אחווה",
+        "population": 291,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "צביה",
+        "population": 286,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר רוזנואלד (זרעית)",
+        "population": 285,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "חרמש",
+        "population": 284,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר סילבר",
+        "population": 279,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גיתה",
+        "population": 274,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ביתן אהרן",
+        "population": 270,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ורדון",
+        "population": 269,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "סואעד (חמרייה)*",
+        "population": 269,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ניצנה (קהילת חינוך)",
+        "population": 268,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית ברל",
+        "population": 266,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נורית",
+        "population": 265,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מכורה",
+        "population": 250,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בקעות",
+        "population": 247,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה איתן",
+        "population": 243,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נעורים",
+        "population": 242,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "הר עמשא",
+        "population": 232,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה אטי\"ב",
+        "population": 227,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ידידה",
+        "population": 219,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מיטל",
+        "population": 215,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גלגל",
+        "population": 209,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר חסידים ב'",
+        "population": 208,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אל -עריאן",
+        "population": 202,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "ייט\"ב",
+        "population": 199,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אל -עזי",
+        "population": 193,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית צבי",
+        "population": 187,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מאיר שפיה",
+        "population": 184,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כדיתה",
+        "population": 174,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רועי",
+        "population": 154,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כדורי",
+        "population": 153,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נערן",
+        "population": 146,
+        "place": "אזור יהודה ושומרון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "הודיות",
+        "population": 133,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כרם בן שמן",
+        "population": 129,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "מבואות ים",
+        "population": 129,
+        "place": "המרכז",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "גבעות עדן",
+        "population": 122,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רמת הנשיא טראמפ",
+        "population": 102,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "קריית יערים (מוסד)",
+        "population": 94,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "דייר ראפאת",
+        "population": 84,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "בית זיד",
+        "population": 80,
+        "place": "הצפון",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "כפר זוהרים",
+        "population": 77,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "עין כרם-בי\"ס חקלאי",
+        "population": 61,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "איתנים",
+        "population": 59,
+        "place": "ירושלים",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "רוח מדבר",
+        "population": 54,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "נווה אבות",
+        "population": 43,
+        "place": "חיפה",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו ג'ווייעד (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו סריחאן (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו עבדון (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו עמאר (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו עמרה (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו קורינאת (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו רובייעה (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אבו רוקייק (שבט)",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    },
+    {
+        "name": "אורון",
+        "population": 0,
+        "place": "הדרום",
+        "reason": "Settlement name from Excel was not found or processed in the GeoJSON data."
+    }
+]
